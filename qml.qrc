@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/CustomCheckBox.qml</file>
+        <file>QML/CustomComboBox.qml</file>
+        <file>QML/CustomSlider.qml</file>
+        <file>QML/CustomSwitchButton.qml</file>
+        <file>QML/main.qml</file>
+        <file>QML/ThemeSetting.qml</file>
+        <file>QML/TransparentWindowFrame.qml</file>
+        <file>Images/choose_color.png</file>
+        <file>Images/choose_picture.png</file>
+        <file>Images/theme.png</file>
+        <file>QML/WindowContent.qml</file>
+        <file>Images/logo.png</file>
+    </qresource>
+</RCC>
