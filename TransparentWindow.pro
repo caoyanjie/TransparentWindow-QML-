@@ -23,9 +23,9 @@ else{
 }
 
 # temp files dir
-OBJECTS_DIR += $$PWD/../TEMP
-RCC_DIR += $$PWD/../TEMP
-MOC_DIR += $$PWD/../TEMP
+OBJECTS_DIR += $$PWD/../Temp
+RCC_DIR += $$PWD/../Temp
+MOC_DIR += $$PWD/../Temp
 
 # icon
 RC_ICONS = Images/logo.ico
